@@ -1,5 +1,7 @@
 .controller.custom{
     background: transparent;
+	top: 0;
+	left: 0;
 }
 .custom.disconnected div {
     display: none;
@@ -14,7 +16,7 @@
 .custom .bumper{
     width: 195px;
     height: 34px;
-    background: #cac4b0;
+    background: #cac8c0;
 	border: 3px solid black;
 	border-radius: 20px;
 }
